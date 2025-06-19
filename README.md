@@ -52,9 +52,9 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ivann-davidd" target="_blank">
-    <img src="https://img.shields.io/badge/- -0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://instagram.com/ivann.david" target="_blank">
-    <img src="https://img.shields.io/badge/- -E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
