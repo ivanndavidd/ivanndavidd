@@ -50,5 +50,11 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ivann-davidd)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/ivann.david)
+<p align="left">
+  <a href="https://linkedin.com/in/ivann-davidd" target="_blank">
+    <img src="https://img.shields.io/badge/- -0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ivann.david" target="_blank">
+    <img src="https://img.shields.io/badge/- -E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" />
+  </a>
+</p>
