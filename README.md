@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,More actions
+<h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
  I'm Ivan David!</h2>More actions
 
 🎓 Master's Degree in Informatics from President University  
