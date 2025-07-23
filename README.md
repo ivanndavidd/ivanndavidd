@@ -59,6 +59,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
+---
+### 🎶 Now Playing on Spotify 
+[![Spotify](https://spotifyrecentlyplayed.vercel.app/api/spotify)](https://open.spotify.com/user/7m6srj8kmmgrbwyd9rfyezwzw)
+<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ivanndavidd/ivanndavidd/main/bottom_header.svg" alt="Bottom Header SVG" />
 </p>
