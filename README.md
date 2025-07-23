@@ -59,3 +59,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ivanndavidd/ivanndavidd/main/bottom_header.svg" alt="Bottom Header SVG" />
+</p>
