@@ -1,7 +1,7 @@
 **<h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
  I'm Ivan David!</h2>**
 
-🎓 Master's Degree in Informatics from President University  
+🎓 Master's Degree in Informatics from [President University](https://president.ac.id/academic/graduate/19)  
 💻 Software & AI Enthusiast  
 🌍 Based in Jakarta, Indonesia  
 
