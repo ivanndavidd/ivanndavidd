@@ -43,7 +43,7 @@
 
 ### 📈 My GitHub Contributions
 
-![snake gif](https://github.com/ivanndavidd/ivanndavidd/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=ivanndavidd&theme=github-dark)
 
 ---
 
