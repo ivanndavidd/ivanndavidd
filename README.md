@@ -43,7 +43,7 @@
 
 ### 📈 My GitHub Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivanndavidd&theme=github-dark)
+![snake gif](https://github.com/ivanndavidd/ivanndavidd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
