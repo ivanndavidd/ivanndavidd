@@ -41,11 +41,9 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Contributions
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanndavidd&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanndavidd&layout=compact&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivanndavidd&theme=github-dark)
 
 ---
 
